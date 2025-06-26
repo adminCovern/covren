@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
     "next": "15.3.4",
     "react": "19.1.0",
     "react-dom": "19.1.0",
@@ -24,7 +23,7 @@
     "tailwindcss": "^4.1.11",
     "postcss": "^8.4.31",
     "autoprefixer": "^10.4.21"
-=======
+
     "next": "15.1.3",
     "react": "19.0.0",
     "react-dom": "19.0.0",
@@ -39,6 +38,6 @@
     "tailwindcss": "^4.0.0",
     "postcss": "^8.4.49",
     "autoprefixer": "^10.4.20"
->>>>>>> 1597149f0fd6f4396b5b8427d83dfe9c89fa3a47
+
   }
 }
